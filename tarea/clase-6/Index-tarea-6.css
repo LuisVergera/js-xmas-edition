@@ -1,0 +1,35 @@
+.error {
+  border: 2px solid red;
+}
+.errorsBlock {
+  font-size: 14px;
+  color: red;
+}
+
+form {
+  text-align: center;
+}
+
+input,
+select,
+textarea {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  background: inherit;
+  border: 2px solid black;
+}
+
+input {
+  border: none;
+  border-bottom: 2px solid black;
+  padding: 0.5em;
+}
+
+.oculto {
+  display: none;
+}
+
+.error-hide {
+  display: none;
+}
